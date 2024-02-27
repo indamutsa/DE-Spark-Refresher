@@ -1,4 +1,4 @@
-# Apache Spark Tutorial README
+# Apache Spark Tutorial
 
 Welcome to our comprehensive Apache Spark tutorial. This tutorial is designed to guide you through the fundamentals of Apache Spark, including its architecture, core concepts, and how to perform data manipulations using PySpark. Whether you're a beginner or an experienced developer looking to enhance your data processing skills, this tutorial offers valuable insights into leveraging Apache Spark for big data analytics.
 
